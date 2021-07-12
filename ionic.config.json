@@ -1,0 +1,7 @@
+{
+  "name": "HunieBae",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}

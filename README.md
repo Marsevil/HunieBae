@@ -1,5 +1,5 @@
 # HunieBae
 
-Inspired by the game HuniePop, this project is essentially use to try **Ionic** framework.
+Inspired by the game HuniePop, this project is essentially made to practice with **Ionic** framework.
 
-This app store data about people in order to success your future date.
+This application store data about people such as birthday, hobbies or occupations, in order to success your upcoming dates.
